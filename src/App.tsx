@@ -37,7 +37,7 @@ function App() {
         <Hero darkMode={darkMode} />
         <WorkExperience darkMode={darkMode} />
         <TechStack darkMode={darkMode} />
-        {/* <Projects darkMode={darkMode} /> */}
+        <Projects darkMode={darkMode} /> 
         <Resume darkMode={darkMode} />
         <Footer darkMode={darkMode} />
       </div>
