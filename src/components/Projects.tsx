@@ -27,7 +27,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       description:
         "An interactive web showcase of three manually coded ARC-1 puzzles, built entirely with HTML, CSS, and JavaScript. Each solver loads real ARC JSON data, visualizes input and output grids, and applies rule-based transformations to mimic human-style reasoning — no AI or ML required.",
       technologies: ["JavaScript", "HTML5", "CSS3", "JSON", "ARC Dataset"],
-      image: "arc-display.png", 
+      image: "/arc-display.png", 
       githubUrl: "https://github.com/BrendanGoddard/ARC-1-Puzzle-Solver",
       liveUrl: "https://arc-1-puzzle-solver.vercel.app/",
       featured: true,
